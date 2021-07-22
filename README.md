@@ -2,5 +2,4 @@
 
 ## we are making changes!
 
-hello from hoffman2
-trial run before presentation :)
+hello, welcome to the git/github presentation!
